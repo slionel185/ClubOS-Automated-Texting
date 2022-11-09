@@ -1,0 +1,25 @@
+{
+    "CLUB_OS" : {
+        "LOGIN": "https://edge.club-os.com/action/Login/view",
+        "DASHBOARD": "https://edge.club-os.com/action/Dashboard",
+        "USER_SEARCH": "https://edge.club-os.com/action/UserSearch"
+    },
+    "IDENTITY": {
+        "SETH": {
+            "USERNAME": "storrence",
+            "PASSWORD": "BuckyBallsPokemon11!"
+        },
+        "ALEX": {
+            "USERNAME": "aromano1",
+            "PASSWORD": "Skunk2118!996"
+        },
+        "LEVI": {
+            "USERNAME": "lshell",
+            "PASSWORD": "Leland2429$$"
+        },
+        "MIKAYLA" : {
+            "USERNAME": "mechevarria@theedgefitnessclubs.com",
+            "PASSWORD": "Softball123!"
+        }
+    }
+}
