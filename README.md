@@ -5,10 +5,11 @@ This project was made as a proof of concept for The Edge while I was employed as
 After being asked to not use the program I halted all updates but this program does work as intended after packaging.
 
 This project utilizes:
-  Electron
-  Vite
-  React.js
-  typescript
+  * Electron
+  * Vite
+  * React.js
+  * tailwindcss
+  * typescript
   
 Learning how to utilize vite and electron together was a bit of a challenge but it was one I welcomed with open arms,
 with the main thought of avoiding the tedious task of our sales texts we are supposed to send daily.
